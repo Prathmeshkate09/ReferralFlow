@@ -1,0 +1,9 @@
+# Binaries and build artifacts
+backend/server
+backend/*.exe
+frontend/dist
+frontend/node_modules
+*.log
+.DS_Store
+Thumbs.db
+.env
